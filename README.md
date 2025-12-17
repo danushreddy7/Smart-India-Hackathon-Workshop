@@ -1,7 +1,7 @@
 # Smart-India-Hackathon-Workshop
 # Date: 17/12/25
-## Register Number:212223220057
-## Name: MOENISH BAALAN G
+## Register Number:212223040029
+## Name: T.DANUSH REDDY
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
